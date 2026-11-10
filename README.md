@@ -6,6 +6,8 @@
 
 **▶ [Watch the 82-second demo](docs/demo/dukaan-saathi-demo.mp4)** · 1080p · Hinglish voice-over
 
+**📄 One-page solution pitch:** [PDF](docs/Dukaan-Saathi-Pitch.pdf) · [Markdown](PITCH.md)
+
 **A voice operating system for small shops.** A kirana owner speaks in Hinglish; stock, the
 udhaar khata and the day's numbers update themselves.
 
@@ -23,7 +25,8 @@ Prisma, Evon and Timbre
 are integrated at the right seams — with a deterministic Hinglish engine as the always-on fallback,
 so the demo works without any API key.
 
-For the short submission copy, demo script and field pack, see [`SUBMISSION.md`](SUBMISSION.md).
+For the one-page solution pitch, the longer submission copy, demo script and field pack, see
+[`PITCH.md`](PITCH.md) and [`SUBMISSION.md`](SUBMISSION.md).
 
 ## Screenshots
 

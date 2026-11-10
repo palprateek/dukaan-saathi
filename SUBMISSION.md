@@ -1,5 +1,8 @@
 # Dukaan Saathi — submission copy
 
+**One-page pitch:** [`docs/Dukaan-Saathi-Pitch.pdf`](docs/Dukaan-Saathi-Pitch.pdf) (PDF, 1 page) ·
+[`PITCH.md`](PITCH.md) (Markdown)
+
 **One line:** A Hinglish voice operating system for kirana shops: speak once, and stock, udhaar
 khata and the day's numbers update themselves.
 
