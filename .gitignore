@@ -6,6 +6,10 @@ data/*.json
 *.log
 .DS_Store
 .tools
+
+# Local agent/tool handoff artifacts — not part of the submission
+freebuff-chat-*.md
+.freebuff/
 android/local.properties
 android/.gradle
 android/build
