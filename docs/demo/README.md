@@ -1,6 +1,8 @@
 # Dukaan Saathi — 82-second demo
 
-[Watch the demo](dukaan-saathi-demo.mp4) · [Cover](dukaan-saathi-demo-cover.jpg)
+[![Dukaan Saathi demo cover](dukaan-saathi-demo-cover.jpg)](dukaan-saathi-demo.mp4)
+
+**▶ [Watch the demo](dukaan-saathi-demo.mp4)**
 
 One kirana counter, six real beats:
 
