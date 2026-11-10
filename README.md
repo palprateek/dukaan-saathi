@@ -59,16 +59,15 @@ The same interface ships as an installable Android app (`android/`, Capacitor 8)
 the UI locally and talks to the Node server over the shop's Wi-Fi — the ledger stays authoritative
 on the server, so browser and phone see the same shop.
 
-A debug APK is built at:
-
-```
-android/app/build/outputs/apk/debug/app-debug.apk
-```
+Download the debug APK from the
+[v0.1.0 release](https://github.com/palprateek/dukaan-saathi/releases/download/v0.1.0/app-debug.apk)
+(5.2 MB). A local build writes the same file to
+`android/app/build/outputs/apk/debug/app-debug.apk`.
 
 ### Install and connect
 
 ```bash
-adb install -r android/app/build/outputs/apk/debug/app-debug.apk
+adb install -r app-debug.apk    # the file downloaded from the release
 npm run dev        # laptop; note the "Phone / Android app → http://…" line
 ```
 

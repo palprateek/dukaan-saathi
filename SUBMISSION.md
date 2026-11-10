@@ -66,8 +66,9 @@ npm test
 npm run build && npm start
 ```
 
-Android debug APK: `android/app/build/outputs/apk/debug/app-debug.apk`. Setup, QR pairing,
-offline limitations and the full API contract are in [`README.md`](README.md).
+Android debug APK: [download v0.1.0](https://github.com/palprateek/dukaan-saathi/releases/download/v0.1.0/app-debug.apk)
+(5.2 MB). Setup, QR pairing, offline limitations and the full API contract are in
+[`README.md`](README.md).
 
 ## Tech stack
 
