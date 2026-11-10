@@ -45,6 +45,13 @@ Chawal 38 → 36 kg).
 - **The fallback is a product feature.** With no API key the demo is fully usable; with a key,
   Prisma and Timbre light up without changing the UI or the ledger rules.
 
+## Demo
+
+[![Watch the 82-second Dukaan Saathi demo](docs/demo/dukaan-saathi-demo-cover.jpg)](docs/demo/dukaan-saathi-demo.mp4)
+
+**▶ [Watch the 82-second demo](docs/demo/dukaan-saathi-demo.mp4)** — 1080p, Hinglish voice-over.
+The beats below are what the film shows, in order.
+
 ## 60–90 second demo script
 
 1. Open the dashboard. Say or tap: **“Aaj 20 kilo chawal aaya aur 5 kilo sugar.”**

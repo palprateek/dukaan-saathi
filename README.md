@@ -1,5 +1,11 @@
 # दुकान साथी · Dukaan Saathi
 
+<a href="docs/demo/dukaan-saathi-demo.mp4">
+  <img src="docs/demo/dukaan-saathi-demo-cover.jpg" alt="Dukaan Saathi demo cover — Dukaan Saathi. Bol kar dukaan chalao." width="100%">
+</a>
+
+**▶ [Watch the 82-second demo](docs/demo/dukaan-saathi-demo.mp4)** · 1080p · Hinglish voice-over
+
 **A voice operating system for small shops.** A kirana owner speaks in Hinglish; stock, the
 udhaar khata and the day's numbers update themselves.
 
