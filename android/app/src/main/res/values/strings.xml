@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Dukaan Saathi</string>
+    <string name="title_activity_main">Dukaan Saathi</string>
+    <string name="package_name">ai.gnani.dukaansaathi</string>
+    <string name="custom_url_scheme">ai.gnani.dukaansaathi</string>
+    <string name="widget_label">Dukaan Saathi — bol kar likhein</string>
+    <string name="widget_title">Dukaan Saathi</string>
+    <string name="widget_subtitle">Bolne ke liye dabaiye</string>
+    <string name="widget_description">Ek tap mein mic kholkar sale, udhaar ya stock boliye.</string>
+</resources>
