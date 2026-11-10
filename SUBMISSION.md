@@ -81,6 +81,8 @@ React 19, TypeScript, Vite, Express 5, atomic JSON store, Capacitor 8, native An
 - Evon needs a deployment URL; it is not a hosted transactional endpoint.
 - The Prisma endpoint accepts recorded clips, but the mobile mic still uses the device recogniser.
 - Live human microphone input and QR camera handoff were not testable on the headless emulator.
+- The demo video feeds the emulator a simulated microphone transcript; everything after recognition —
+  Hinglish parsing, stock and khata writes, the offline queue, sync and the widget launch — runs for real.
 
 ## Team
 
